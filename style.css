@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.kidz{
+     position: relative;
+     margin-left: 30px;
+}
+
+.nav2{
+    display: flex;
+    position: relative;
+    margin-right: 50px
+}
+
+.New{
+    position: relative;
+    margin-left: 50px;
+}
+
+.new1{
+position: relative;
+margin-left: 90px;;
+}
+
+.books{
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+   font-family: 'Poppins', sans-serif;
+   font-weight:bolder;
+}
+
+.author{
+     color: grey;
+     font-weight: lighter;
+     
+}
+
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.add{
+    background-color: rgb(90, 186, 219);
+    border-radius: 15%;
+    
+}
+
+.game{
+    display: flex;
+    justify-content: space-around;
+}
+
+.new{
+    position: relative;
+    margin-left: 90px;
+}
+
+.handmade{
+    display: flex;
+    justify-content: space-around;
+}
+
+.word{
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    border-radius: 50%;
+}
+
+.footer1{
+    position: relative;
+    margin-left: 50px;
+}
+
+#kris{
+    position: relative;
+    margin-left:155px;
+}
+
+.made{
+    color: white;
+    position: relative;
+    margin-right: 100px;
+}
+
+.to{
+    color: white;
+}
+
